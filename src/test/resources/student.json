@@ -1,0 +1,10 @@
+{
+  "name": "kris",
+  "age": 26,
+  "rating": 5,
+  "teacher": {
+    "name": "Sam",
+    "surname": "Jon",
+    "subject": "math"
+  }
+}
